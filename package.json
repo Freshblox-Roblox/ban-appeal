@@ -30,7 +30,7 @@
     "jsonwebtoken": "^8.5.1"
   },
   "scripts": {
-    "start": "react-scripts start && npm i babel-loader",
+    "start": "react-scripts start",
     "build": "node set_config.js && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
