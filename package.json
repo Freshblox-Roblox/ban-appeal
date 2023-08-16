@@ -1,5 +1,6 @@
 {
   "name": "discord-ban-appeal",
+  "start": "npm i babel-loader"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
